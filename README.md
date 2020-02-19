@@ -1,13 +1,14 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# react-bootstrap-responsive-starter
+# cra-react-bootstrap-responsive-starter
 
-Minimalistic react-bootstrap starter with responsive layout
+Minimalistic Create React App on react-bootstrap starter with responsive layout
 
 ---
 
 ## Feature tags
 
+- cra
 - react-bootstrap
 - responsive
 - starter
@@ -21,9 +22,9 @@ Minimalistic react-bootstrap starter with responsive layout
 
 ---
 
-## Direct descendants
+## Direct ancestors
 
-- [TBD]
+[cra-ie11-starter](https://github.com/softspiders/cra-ie11-starter)
 
 ---
 
