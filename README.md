@@ -9,6 +9,7 @@ Minimalistic Create React App on react-bootstrap starter with responsive layout
 ## Feature tags
 
 - cra
+- ie11
 - react-bootstrap
 - responsive
 - starter
