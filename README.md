@@ -29,7 +29,7 @@ Minimalistic Create React App on react-bootstrap starter with responsive layout
 
 ## Direct descendants
 
-https://github.com/softspiders/cra-react-router-react-bootstrap-starter
+[cra-react-router-react-bootstrap-starter](https://github.com/softspiders/cra-react-router-react-bootstrap-starter)
 
 ---
 
